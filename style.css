@@ -3,7 +3,7 @@
 }
 
 body {
-  background-color: rgb(216, 216, 216);
+  background-color: rgb(255, 255, 255);
   line-height: 1.5;
   margin: 10px auto;
   max-width: 1200px;
@@ -14,12 +14,12 @@ body {
   border: none;
   font-family: "Source Serif Pro", "Cambria", "Charter", "Georgia", sans-serif;
   font-size: 1.5rem;
-  box-shadow: -2px 2px 4px 0px rgba(0,0,0,0.5);
+  box-shadow: -2px 2px 4px 0px rgba(0, 0, 0, 0.5);
   cursor: pointer;
   position: sticky;
   top: 10px;
   background-color: white;
-  color: hsl(0, 0%, 20%);
+  color: hsl(0, 0%, 16%);
   padding: 5px;
   border-radius: 4px;
   margin-right: 10px;
@@ -34,7 +34,7 @@ main {
   background-color: white;
   box-shadow: 0 3px 8px -3px rgba(0, 0, 0, 0.7);
   font-family: "Source Serif Pro", "Cambria", "Charter", "Georgia", sans-serif;
-  color: hsl(0, 0%, 20%);
+  color: hsl(0, 0%, 16%);
 }
 
 h1,
